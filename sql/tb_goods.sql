@@ -1,0 +1,1 @@
+INSERT INTO `tb_goods` (`id`, `goodsname`, `produceplace`, `size`, `package`, `productcode`, `promitcode`, `description`, `price`, `providerid`, `available`) VALUES ('001', '真知棒', '江苏扬州', '5g', '散装', '123444', '过准字', '糖', 0.5, '001', 1);

@@ -1,0 +1,1 @@
+INSERT INTO `tb_inport` (`id`, `providerid`, `paytype`, `inporttime`, `operateperson`, `number`, `price`, `comment`, `goodsid`) VALUES ('PI20151202112328', '001', '现金', '2015-12-2 11:23:28', 'admin', 20, 10, '棒棒糖', '001');
